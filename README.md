@@ -1,4 +1,4 @@
-# Example of libsodium in R 
+# Example of libsodium in Python
 The scripts in this repo show how to:
 * generate a public and secret key
 * encrypt a sealed box via a public key
