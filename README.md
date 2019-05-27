@@ -6,6 +6,5 @@ The scripts in this repo show how to:
 
 For portability, all keys and encrypted data are stored in base64.
 
-# Required packages
-* [sodium](https://cran.r-project.org/web/packages/sodium/index.html)
-* [base64enc](https://cran.r-project.org/web/packages/base64enc/index.html)
+# Required modules
+* [PyNaCl](https://github.com/pyca/pynacl)
